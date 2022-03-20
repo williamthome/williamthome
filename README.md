@@ -66,8 +66,12 @@ I'm a junior full-stack developer in learning, and guitarist.
 <img alt="Ubuntu" width="32px" src="https://cdn.icon-icons.com/icons2/70/PNG/32/ubuntu_14143.png">
 </code>](https://ubuntu.com/)
 
-## Coderank
+## CodersRank
 
 [<code>
-<img alt="coderank" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=williamthome" />
+  <img alt="codersrank_summary" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=williamthome&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+</code>](https://profile.codersrank.io/user/williamthome)
+
+[<code>
+<img alt="codersrank_skills" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=williamthome" />
 </code>](https://profile.codersrank.io/user/williamthome)
