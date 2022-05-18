@@ -69,7 +69,7 @@ I'm a junior full-stack developer in learning, and guitarist.
 ## CodersRank
 
 [<code>
-  <img alt="codersrank_summary" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=williamthome&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+  <img alt="codersrank_summary" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=williamthome&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
 </code>](https://profile.codersrank.io/user/williamthome)
 
 [<code>
