@@ -8,10 +8,10 @@
 
 I'm a junior full-stack developer in learning, and guitarist.
 
-- 🔭 I’m currently starting my first developer job o/;
-- 🌱 I’m currently learning Erlang, Elixir and Phoenix Framework;
+- 🔭 I’m currently working at Abensoft;
+- 🌱 I’m currently learning Erlang, Zotonic, Elixir and Phoenix Framework;
 - 👯 I’m looking to collaborate with other content creators;
-- 🥅 2021 Goals: Learn a lot about Erlang, Elixir and Phoenix Framework;
+- 🥅 2022 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
 - ⚡ Fun fact: I love to play guitar and listen Lynyrd Skynyrd.
 
 ## Languages and Tools:
