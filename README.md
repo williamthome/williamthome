@@ -9,7 +9,7 @@
 
 I'm a junior full-stack developer in learning, and guitarist.
 
-- 🔭 I’m currently working at Abensoft;
+- 🔭 I’m currently working at [Abensoft](https://abensoft.com.br/);
 - 🌱 I’m currently learning Erlang, Zotonic, Elixir and Phoenix Framework;
 - 👯 I’m looking to collaborate with other content creators;
 - 🥅 2022 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
