@@ -15,20 +15,30 @@ I'm a junior full-stack developer in learning, and guitarist.
 - 🥅 2022 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
 - ⚡ Fun fact: I love to play guitar and listen Lynyrd Skynyrd.
 
-## Languages and Tools:
+## Open Source Projects
 
+- [Zotonic Server Language](https://github.com/williamthome/zotonic-ls)
+
+## Languages and Tools
+
+[<code>
+<img alt="Erlang" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/erlang_original_logo_icon_146531.png" />
+</code>](https:/erlang.org/)
+[<code>
+<img alt="Zotonic" width="32px" src="https://pbs.twimg.com/profile_images/527670912/zotonic_twitter_400x400.png" />
+</code>](https://zotonic.com/)
 [<code>
 <img alt="Elixir" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/elixir_lang_logo_icon_169207.png" />
 </code>](https://elixir-lang.org/)
 [<code>
-<img alt="Phoenix Framework" width="32px" src="https://cdn.icon-icons.com/icons2/2148/PNG/32/phoenix_icon_132097.png" />
-</code>](https://www.phoenixframework.org/)
+<img alt="Phoenix Framework" width="32px" src="https://fullstackphoenix.com/images/phoenix-bcd92d6eab83c07e921cb06c8121321a.png?vsn=d" />
+</code>](https://phoenixframework.org/)
 [<code>
 <img alt="Javascript" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/javascript_original_logo_icon_146455.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="Typescript" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/typescript_original_logo_icon_146317.png">
-</code>](https://www.typescriptlang.org/)
+</code>](https://typescriptlang.org/)
 [<code>
 <img alt="HTML5" width="32px" src="https://cdn.icon-icons.com/icons2/844/PNG/32/HTML5_icon-icons.com_67090.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -40,7 +50,7 @@ I'm a junior full-stack developer in learning, and guitarist.
 </code>](https://sass-lang.com/)
 [<code>
 <img alt="JSON" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/json_logo_icon_168489.png">
-</code>](https://www.json.org/)
+</code>](https://json.org/)
 [<code>
 <img alt="Eslint" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/eslint_logo_icon_171175.png">
 </code>](https://eslint.org/)
@@ -51,11 +61,11 @@ I'm a junior full-stack developer in learning, and guitarist.
 <img alt="PostgreSQL" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/postgresql_logo_icon_170835.png">
 </code>](https://www.postgresql.org/)
 [<code>
-<img alt="Github" width="32px" src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png">
+<img alt="Github" width="32px" src="https://img.icons8.com/fluency/32/FFFFFF/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="Markdown" width="32px" src="https://cdn.icon-icons.com/icons2/2249/PNG/32/language_markdown_outline_icon_139425.png">
-</code>](https://www.markdownguide.org/)
+<img alt="Markdown" width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/markdown.png">
+</code>](https://markdownguide.org/)
 [<code>
 <img alt="React" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png" />
 </code>](https://reactjs.org/)
@@ -64,8 +74,17 @@ I'm a junior full-stack developer in learning, and guitarist.
 <img alt="VSCode" width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_vscode_icon_130084.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
+<img alt="IntelliJ IDEA" width="32px" src="https://img.icons8.com/color/48/FFFFFF/intellij-idea.png" />
+</code>](https://jetbrains.com/idea/)
+[<code>
+<img alt="Youtrack" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8d/20200803082247%21YouTrack_Icon.svg" />
+</code>](https://jetbrains.com/youtrack/)
+[<code>
 <img alt="Ubuntu" width="32px" src="https://cdn.icon-icons.com/icons2/70/PNG/32/ubuntu_14143.png">
 </code>](https://ubuntu.com/)
+[<code>
+<img alt="Windows" width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/windows-logo.png">
+</code>](https://microsoft.com/windows)
 
 ## CodersRank
 
