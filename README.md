@@ -64,7 +64,7 @@ I'm a junior full-stack developer in learning, and guitarist.
 <img alt="Github" width="32px" src="https://img.icons8.com/fluency/32/FFFFFF/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="Markdown" width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/markdown.png">
+<img alt="Markdown" width="32px" src="https://img.icons8.com/fluency/48/FFFFFF/markdown.png">
 </code>](https://markdownguide.org/)
 [<code>
 <img alt="React" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png" />
@@ -83,7 +83,7 @@ I'm a junior full-stack developer in learning, and guitarist.
 <img alt="Ubuntu" width="32px" src="https://cdn.icon-icons.com/icons2/70/PNG/32/ubuntu_14143.png">
 </code>](https://ubuntu.com/)
 [<code>
-<img alt="Windows" width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/windows-logo.png">
+<img alt="Windows" width="32px" src="https://img.icons8.com/color/48/FFFFFF/windows-95.png">
 </code>](https://microsoft.com/windows)
 
 ## CodersRank
