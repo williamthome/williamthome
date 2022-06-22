@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a junior full-stack developer in learning, and guitarist.
+I'm a junior full-stack developer in learning and guitarist.
 
 - 🔭 I’m currently working at [Abensoft](https://abensoft.com.br/);
 - 🌱 I’m currently learning Erlang, Zotonic, Elixir and Phoenix Framework;
@@ -17,7 +17,7 @@ I'm a junior full-stack developer in learning, and guitarist.
 
 ## Open Source Projects
 
-- [Zotonic Server Language](https://github.com/williamthome/zotonic-ls)
+- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls)
 
 ## Languages and Tools
 
