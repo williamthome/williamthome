@@ -18,6 +18,7 @@ I'm a junior full-stack developer in learning and guitarist.
 ## Open Source Projects
 
 - [Zotonic Language Server](https://github.com/williamthome/zotonic-ls)
+- [Embedded Erlang (EEl)](https://github.com/williamthome/eel)
 
 ## Languages and Tools
 
