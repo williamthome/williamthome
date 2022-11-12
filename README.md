@@ -17,8 +17,9 @@ I'm a junior full-stack developer in learning and guitarist.
 
 ## Open Source Projects
 
-- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls)
-- [Embedded Erlang (EEl)](https://github.com/williamthome/eel)
+- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls): VSCode extension for Zotonic, the Erlang Web Framework & CMS;
+- [Embedded Erlang (EEl)](https://github.com/williamthome/eel): Template compiler with embedded Erlang code;
+- [maps_in](https://github.com/williamthome/maps_in): An Erlang library to handle nested maps.
 
 ## Languages and Tools
 
