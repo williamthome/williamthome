@@ -7,23 +7,22 @@
 
 ## About me
 
-I'm a junior full-stack developer in learning and guitarist.
+I'm a full-stack developer and (sometimes) guitarist.
 
 - 🔭 I’m currently working at [Abensoft](https://abensoft.com.br/);
 - 🌱 I’m currently learning Erlang, Zotonic, Elixir and Phoenix Framework;
 - 👯 I’m looking to collaborate with other content creators;
-- 🥅 2022 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
-- ⚡ Fun fact: I love to play guitar and listen Lynyrd Skynyrd.
+- 🥅 2023 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
+- ⚡ Fun fact: I love to play electric guitar and listen to Lynyrd Skynyrd.
 
 ## Open Source Projects
 
-- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls): VSCode extension for Zotonic, the Erlang Web Framework & CMS;
-  - Join the [topic discussion](https://erlangforums.com/t/zotonic-language-server/1416) in Erlang forums.
 - [Embedded Erlang (EEl)](https://github.com/williamthome/eel): Template compiler with embedded Erlang code;
   - Join the [topic discussion](https://erlangforums.com/t/eel-embedded-erlang-template-renderer-wip/1827) in Erlang forums.
+- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls): VSCode extension for Zotonic, the Erlang Web Framework & CMS;
+  - Join the [topic discussion](https://erlangforums.com/t/zotonic-language-server/1416) in Erlang forums.
 - [maps_in](https://github.com/williamthome/maps_in): An Erlang library to handle nested maps.
   - Join the [topic discussion](https://erlangforums.com/t/maps-in-an-erlang-library-to-handle-nested-maps/2013) in Erlang forums.
-
 
 ## Languages and Tools
 
