@@ -19,6 +19,7 @@ I'm a full-stack developer and (sometimes) guitarist.
 
 - [Embedded Erlang (EEl)](https://github.com/williamthome/eel): Template compiler with embedded Erlang code;
   - Join the [topic discussion](https://erlangforums.com/t/eel-embedded-erlang-template-renderer-wip/1827) in Erlang forums.
+- [Euneus](https://github.com/williamthome/euneus): JSON parser and generator;
 - [Zotonic Language Server](https://github.com/williamthome/zotonic-ls): VSCode extension for Zotonic, the Erlang Web Framework & CMS;
   - Join the [topic discussion](https://erlangforums.com/t/zotonic-language-server/1416) in Erlang forums.
 - [maps_in](https://github.com/williamthome/maps_in): An Erlang library to handle nested maps.
