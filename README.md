@@ -17,13 +17,39 @@ I'm a full-stack developer and (sometimes) guitarist.
 
 ## Open Source Projects
 
-- [Embedded Erlang (EEl)](https://github.com/williamthome/eel): Template compiler with embedded Erlang code;
-  - Join the [topic discussion](https://erlangforums.com/t/eel-embedded-erlang-template-renderer-wip/1827) in Erlang forums.
-- [Euneus](https://github.com/williamthome/euneus): JSON parser and generator;
-- [Zotonic Language Server](https://github.com/williamthome/zotonic-ls): VSCode extension for Zotonic, the Erlang Web Framework & CMS;
-  - Join the [topic discussion](https://erlangforums.com/t/zotonic-language-server/1416) in Erlang forums.
-- [maps_in](https://github.com/williamthome/maps_in): An Erlang library to handle nested maps.
-  - Join the [topic discussion](https://erlangforums.com/t/maps-in-an-erlang-library-to-handle-nested-maps/2013) in Erlang forums.
+### EEl (Embedded Erlang)
+
+Template compiler with embedded Erlang code.
+
+- Repo: https://github.com/williamthome/eel
+- Topic: https://erlangforums.com/t/eel-embedded-erlang-template-renderer-wip/1827
+
+### Euneus
+
+JSON parser and generator.
+
+- Repo: https://github.com/williamthome/euneus
+- Topic: https://erlangforums.com/t/euneus-a-json-parser-and-generator-in-pure-erlang/3031?u=williamthome
+
+### ZotonicLS (Language Server)
+
+VSCode extension for Zotonic, the Erlang Web Framework & CMS.
+
+- Repo: https://github.com/williamthome/zotonic-ls
+- Topic: https://erlangforums.com/t/zotonic-language-server/1416
+
+### Changeset
+
+Validates data based on Ecto changeset library (Elixir).
+
+- Repo: https://github.com/williamthome/changeset
+
+### MapsIn
+
+An Erlang library to handle nested maps.
+
+- Repo: https://github.com/williamthome/maps_in
+- Topic: https://erlangforums.com/t/maps-in-an-erlang-library-to-handle-nested-maps/2013
 
 ## Languages and Tools
 
