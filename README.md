@@ -17,6 +17,16 @@ I'm a full-stack developer and (sometimes) guitarist.
 
 ## Open Source Projects
 
+### Arizona
+
+Arizona is a Web Framework for Erlang. 
+
+Winner of [SpawnFest](https://spawnfest.org/) 2023 in the usefulness category:
+
+![image](https://github.com/williamthome/williamthome/assets/35941533/27f3d1d7-3176-4ae4-982c-f9df27ce05cc)
+
+- Repo: https://github.com/spawnfest/arizona
+
 ### EEl (Embedded Erlang)
 
 Template compiler with embedded Erlang code.
@@ -31,12 +41,19 @@ JSON parser and generator.
 - Repo: https://github.com/williamthome/euneus
 - Topic: https://erlangforums.com/t/euneus-a-json-parser-and-generator-in-pure-erlang/3031?u=williamthome
 
+### Doctest
+
+A library to test Erlang doc attributes.
+
+- Repo: https://github.com/williamthome/doctest
+- Topic: https://erlangforums.com/t/doctest-a-library-to-test-erlang-doc-attributes?u=williamthome
+
 ### ZotonicLS (Language Server)
 
 VSCode extension for Zotonic, the Erlang Web Framework & CMS.
 
 - Repo: https://github.com/williamthome/zotonic-ls
-- Topic: https://erlangforums.com/t/zotonic-language-server/1416
+- Topic: https://erlangforums.com/t/zotonic-language-server?u=williamthome
 
 ### Changeset
 
@@ -49,7 +66,7 @@ Validates data based on Ecto changeset library (Elixir).
 An Erlang library to handle nested maps.
 
 - Repo: https://github.com/williamthome/maps_in
-- Topic: https://erlangforums.com/t/maps-in-an-erlang-library-to-handle-nested-maps/2013
+- Topic: https://erlangforums.com/t/maps-in-an-erlang-library-to-handle-nested-maps?u=williamthome
 
 ## Languages and Tools
 
