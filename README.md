@@ -19,7 +19,7 @@ I'm a full-stack developer and (sometimes) guitarist.
 
 ### Arizona
 
-Arizona is a Web Framework for Erlang. 
+[Arizona](https://github.com/arizona-framework/arizona) is a Web Framework for Erlang. 
 
 Winner of [SpawnFest](https://spawnfest.org/) 2023 in the usefulness category:
 
