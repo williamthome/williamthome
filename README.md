@@ -25,7 +25,8 @@ Winner of [SpawnFest](https://spawnfest.org/) 2023 in the usefulness category:
 
 ![image](https://github.com/williamthome/williamthome/assets/35941533/27f3d1d7-3176-4ae4-982c-f9df27ce05cc)
 
-- Repo: https://github.com/spawnfest/arizona
+- Project Repo: https://github.com/arizona-framework/arizona
+- SpawnFest Repo: https://github.com/spawnfest/arizona
 
 ### EEl (Embedded Erlang)
 
