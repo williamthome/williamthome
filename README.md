@@ -9,12 +9,6 @@
 
 I'm a full-stack developer and (sometimes) guitarist.
 
-- 🔭 I’m currently working at [Abensoft](https://abensoft.com.br/);
-- 🌱 I’m currently learning Erlang, Zotonic, Elixir and Phoenix Framework;
-- 👯 I’m looking to collaborate with other content creators;
-- 🥅 2024 Goals: Learn a lot about Erlang, Zotonic, Elixir and Phoenix Framework;
-- ⚡ Fun fact: I love to play electric guitar and listen to Lynyrd Skynyrd.
-
 ## Open Source Projects
 
 ### Arizona
