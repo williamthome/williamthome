@@ -19,16 +19,11 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
 
 <p align="center">
   <a href="https://github.com/arizona-framework/arizona">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arizona-framework&repo=arizona&theme=tokyonight&hide_border=true&description_lines_count=2">
-      <img alt="arizona-framework/arizona" src="https://github-readme-stats.vercel.app/api/pin/?username=arizona-framework&repo=arizona&hide_border=true&description_lines_count=2">
-    </picture>
+    <img alt="Arizona" src="https://raw.githubusercontent.com/arizona-framework/arizona/main/assets/logo.jpg" height="160">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/arizona-framework/roadrunner">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arizona-framework&repo=roadrunner&theme=tokyonight&hide_border=true&description_lines_count=2">
-      <img alt="arizona-framework/roadrunner" src="https://github-readme-stats.vercel.app/api/pin/?username=arizona-framework&repo=roadrunner&hide_border=true&description_lines_count=2">
-    </picture>
+    <img alt="Roadrunner" src="https://raw.githubusercontent.com/arizona-framework/roadrunner/main/assets/logo.jpg" height="160">
   </a>
 </p>
 
@@ -63,14 +58,13 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
 ## GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=williamthome&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&card_width=470">
-    <img alt="William's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=williamthome&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&card_width=470">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamthome&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamthome&layout=compact&hide_border=true&langs_count=8&card_width=320">
-  </picture>
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=github_dark#gh-dark-mode-only">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=default#gh-light-mode-only">
+</p>
+
+<p align="center">
+  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=github_dark&exclude=html,css#gh-dark-mode-only">
+  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=default&exclude=html,css#gh-light-mode-only">
 </p>
 
 <p align="center">
