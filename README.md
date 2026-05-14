@@ -1,7 +1,7 @@
 <h1 align="center">William Fank Thomé</h1>
 
 <p align="center">
-  <i>Erlang/OTP developer · Itapiranga, Brazil</i>
+  <i>Erlang/OTP developer · Brazil</i>
 </p>
 
 <p align="center">
