@@ -79,7 +79,15 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
 
 Always happy to collaborate on open-source, especially around real-time web, HTTP/2 servers, and Erlang developer tooling. Also open to interesting BEAM/Erlang work. The best way to reach me is on [LinkedIn](https://linkedin.com/in/williamthome/).
 
+## Sponsors
+
 If my open-source work has helped you, you can support it via [GitHub Sponsors](https://github.com/sponsors/williamthome) or [Buy Me a Coffee](https://www.buymeacoffee.com/williamthome). Thank you.
+
+<p align="center">
+  <a href="https://github.com/sponsors/williamthome">
+    <img alt="Sponsors" src="https://raw.githubusercontent.com/williamthome/williamthome/sponsorkit/sponsors.svg">
+  </a>
+</p>
 
 ---
 
