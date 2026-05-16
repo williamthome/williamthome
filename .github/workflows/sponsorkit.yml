@@ -22,11 +22,16 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install sponsorkit in workspace
+        run: |
+          npm init -y --silent
+          npm install --silent sponsorkit
+
       - name: Generate sponsors SVGs
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: williamthome
-        run: npx --yes sponsorkit@latest
+        run: npx sponsorkit
 
       - name: Push to sponsorkit branch
         uses: crazy-max/ghaction-github-pages@v4
