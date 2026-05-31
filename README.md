@@ -58,20 +58,16 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
 ## GitHub activity
 
 <p align="center">
-  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=github_dark#gh-dark-mode-only">
-  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=default#gh-light-mode-only">
-</p>
-
-<p align="center">
-  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=github_dark&exclude=html,css#gh-dark-mode-only">
-  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=default&exclude=html,css#gh-light-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=github_dark">
+    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=default">
+  </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamthome/williamthome/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamthome/williamthome/output/github-snake.svg">
-    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/williamthome/williamthome/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=github_dark&exclude=html,css">
+    <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=default&exclude=html,css">
   </picture>
 </p>
 
