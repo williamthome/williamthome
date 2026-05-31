@@ -60,11 +60,11 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=github_dark">
-    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=default">
+    <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamthome&theme=default" height="160">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=github_dark&exclude=html,css">
-    <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=default&exclude=html,css">
+    <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=williamthome&theme=default&exclude=html,css" height="160">
   </picture>
 </p>
 
