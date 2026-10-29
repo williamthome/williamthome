@@ -13,7 +13,7 @@
 
 ## About
 
-I build real-time web infrastructure on the BEAM. Creator and maintainer of the **[Arizona](https://github.com/arizona-framework/arizona)** web framework ([SpawnFest 2023](https://github.com/spawnfest/arizona) winner in the *usefulness* category) and the **[Roadrunner](https://github.com/arizona-framework/roadrunner)** HTTP/2 + WebSocket server that powers it. Active in the Erlang/OTP community.
+I build real-time web infrastructure on the BEAM. Creator and maintainer of the **[Arizona](https://github.com/arizona-framework/arizona)** web framework ([SpawnFest 2023](https://github.com/spawnfest/arizona) winner in the *usefulness* category) and the **[Roadrunner](https://github.com/arizona-framework/roadrunner)** HTTP/1.1, HTTP/2, HTTP/3 and WebSocket server that powers it. Active in the Erlang/OTP community.
 
 ## Featured projects
 
@@ -27,14 +27,15 @@ I build real-time web infrastructure on the BEAM. Creator and maintainer of the 
   </a>
 </p>
 
-**[Arizona](https://github.com/arizona-framework/arizona)** &nbsp;·&nbsp; A real-time web framework for Erlang/OTP. Renders HTML on the server, diffs at the template level, and pushes minimal updates to the browser over WebSocket.
+**[Arizona](https://github.com/arizona-framework/arizona)** &nbsp;·&nbsp; A real-time web framework for Erlang/OTP. Renders HTML on the server, diffs at the template level, and pushes minimal updates to the browser over WebSocket. The same templates also drive native iOS and Android clients through a JSON render target, and even an ANSI terminal over SSH. Runs on Roadrunner, Cowboy, or inside a Nova app.
 
-**[Roadrunner](https://github.com/arizona-framework/roadrunner)** &nbsp;·&nbsp; Pure-Erlang HTTP/1.1, HTTP/2, and WebSocket server. RFC-correct, zero external dependencies, **100% line coverage**, **h2spec strict 100%**, **Autobahn fuzzing 100%**. Targets OTP 29+. Powers Arizona.
+**[Roadrunner](https://github.com/arizona-framework/roadrunner)** &nbsp;·&nbsp; Pure-Erlang HTTP/1.1, HTTP/2, HTTP/3, and WebSocket server, with its own QUIC transport. RFC-correct, zero external dependencies, no NIFs, **100% line coverage**, **h2spec strict 100%**, **h3spec 100%**, **Autobahn fuzzing 100%**. Powers Arizona, and runs Plug and Phoenix apps through [roadrunner_plug](https://github.com/arizona-framework/roadrunner_plug).
 
 ## Other open-source work
 
 - **[eel](https://github.com/williamthome/eel)** &nbsp;·&nbsp; Embedded Erlang (EEl) template engine.
 - **[euneus](https://github.com/williamthome/euneus)** &nbsp;·&nbsp; Pure-Erlang JSON parser, generator, and formatter.
+- **[json_polyfill](https://github.com/williamthome/json_polyfill)** &nbsp;·&nbsp; Polyfill of the OTP `json` module (EEP 68) for OTP 24+.
 - **[doctest](https://github.com/williamthome/doctest)** &nbsp;·&nbsp; Library for testing Erlang `-doc` attributes.
 - **[changeset](https://github.com/williamthome/changeset)** &nbsp;·&nbsp; Ecto-style data validation for Erlang/OTP.
 - **[zotonic-ls](https://github.com/williamthome/zotonic-ls)** &nbsp;·&nbsp; Language server for Zotonic.
